@@ -1,1 +1,1 @@
-#https://tên-tài-khoản-của-bạn.github.io/ten-repo-cua-ban/love.html
+#https://file:///F:/New%20folder/totinhcrush-main/love/love.html
